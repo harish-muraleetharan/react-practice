@@ -1,0 +1,15 @@
+.header{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.nav-container{
+    width:75%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nav-items{
+    margin: 0 5px;
+    cursor: pointer;
+}
